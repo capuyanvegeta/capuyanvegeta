@@ -1,0 +1,13 @@
+> 10 PRINT "hello" 
+> 20 GOTO 10
+> RUN
+>"hello"
+>"hello"
+>"hello"
+>...
+>...
+<Ctrl-C>
+Program Terminated
+>list
+10 PRINT "hello"
+20 GOTO 10
